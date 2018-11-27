@@ -1,0 +1,6 @@
+
+Tick: LAL,
+Name: LAL,
+Decimals: 12345678,
+Total Supply: 12345678,
+Ropsten Network Transaction Hash: Deployment Error
